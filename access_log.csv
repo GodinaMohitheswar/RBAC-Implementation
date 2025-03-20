@@ -1,0 +1,5 @@
+Username,Access Level,Success,Timestamp
+alice,Admin,Success,2025-03-19 14:35:22
+bob,Manager,Success,2025-03-19 14:36:10
+charlie,User,Success,2025-03-19 14:36:58
+dave,Unauthorized,Fail,2025-03-19 14:37:30
