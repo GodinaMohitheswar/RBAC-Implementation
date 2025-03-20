@@ -1,6 +1,3 @@
-# RBAC-Implementation
-Role-Based Access Control (RBAC) Implementation in Python using SQLite
-
 # 🔐 Advanced Role-Based Access Control (RBAC) System for Cybersecurity
 
 ## 📚 Project Overview
@@ -112,33 +109,3 @@ You can analyze it using **pandas** for better insights.
 - Educational demonstrations for cybersecurity training.
 - Integration with other security systems for access control.
 
----
-
-## 📩 Contact Information:
-For any queries or collaboration, reach out to:
-- **Your Name:** Godina Mohitheswar  
-- **Email:** mohitheswargodina@gmail.com  
-- **GitHub:** [Your GitHub Username](https://github.com/YourUsername)
-
----
-
-## ⭐ Contribute:
-Feel free to submit issues or contribute to this project. Pull requests are welcome!
-
----
-
-### ⚠️ Disclaimer:
-This project is for educational purposes only. Do not use it for unauthorized access or malicious activities.
-
-```
-
----
-
-### 🔥 **Your GitHub Project Is Now Ready!**
-- Upload all files to your GitHub repository: **`Advanced-RBAC-Security`**
-- Make sure to update the **GitHub link** and **contact information** in the README.  
-- Share your project link on your resume or with peers!  
-
----
-
-If you need help with any step or adjustments, just let me know! 😊🚀
